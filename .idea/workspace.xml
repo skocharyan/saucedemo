@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19c9dc01-0fcf-445a-95d1-9460697d4f84" name="Default Changelist" comment="" />
+    <list default="true" id="19c9dc01-0fcf-445a-95d1-9460697d4f84" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/configs/GuiceModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/configs/GuiceModule.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +22,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Koche\.m2\repository\" />
+        <option name="userSettingsFile" value="C:\Users\Koche\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -24,6 +39,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1metww5VnQS84SgZMQyql0iqAHd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,8 +49,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -45,6 +65,8 @@
       <option name="presentableId" value="Default" />
       <updated>1609866126737</updated>
       <workItem from="1609866140176" duration="3249000" />
+      <workItem from="1610139206668" duration="1449000" />
+      <workItem from="1610278027071" duration="948000" />
     </task>
     <servers />
   </component>
@@ -52,10 +74,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="486" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1609868466172">
+    <state x="486" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1610278691222">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="486" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1609868466172" />
+    <state x="486" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1610278691222" />
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610278113527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1610278113527" />
     <state width="1302" height="176" key="GridCell.Tab.0.bottom" timestamp="1609866610578">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -72,5 +98,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1302" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609866610578" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1610139821516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610139821516" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1610278029283">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1610278029283" />
   </component>
 </project>
